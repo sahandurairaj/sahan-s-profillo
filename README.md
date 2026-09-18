@@ -43,6 +43,11 @@ I add the skills I learn along with each project. This list is just a starting p
 
 ---
 
+
+I have won the 3rd place in soccer bot at technoxian 
+
+---
+
 ## 📈 Progress
 
 I update my progress weekly. This repository will be continuously updated throughout the program to document my projects, learning, experiments, challenges, solutions, achievements, and progress.
