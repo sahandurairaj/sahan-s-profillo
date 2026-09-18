@@ -19,12 +19,12 @@ I'm doing this to build the habit of documenting as I go, so by the end I can lo
 
 | Week | Focus / Task | Status |
 | :--- | :--- | :--- |
-| **Week 1** | Draw a Ferrari F1 car and learn about Enzo Ferrari. | ⏳ Upcoming |
-| **Week 2** | Control an ESP32 using the Blynk app and learn basic electronics skills. | ⏳ Upcoming |
-| **Week 3** | Watch *Real Steel* and *Pacific Rim*. | ⏳ Upcoming |
-| **Week 4** | Decode Morse code. | ⏳ Upcoming |
-| **Week 5** | Decode cipher code using a Caesar shift. | ⏳ Upcoming |
-| **Week 6** | Create a repository using GitHub. | ⏳ Upcoming |
+| **Week 1** | Draw a Ferrari F1 car and learn about Enzo Ferrari. | ⏳ Done |
+| **Week 2** | Control an ESP32 using the Blynk app and learn basic electronics skills. | ⏳ Done |
+| **Week 3** | Watch *Real Steel* and *Pacific Rim*. | ⏳ Done |
+| **Week 4** | Decode Morse code. | ⏳ Done |
+| **Week 5** | Decode cipher code using a Caesar shift. | ⏳ Done |
+| **Week 6** | Create a repository using GitHub. | ⏳ Done |
 
 ---
 
